@@ -1,4 +1,4 @@
-# CSC_115_CPP_FALL_2026-# Assignment 1 – Hello World
+# Assignment 1 – Hello World
 
 **Name:** Artem Fomin
 
